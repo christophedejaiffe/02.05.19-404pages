@@ -1,0 +1,54 @@
+/*Fonts de la page*/
+
+@font-face {
+    font-family: 'atomic_ageregular';
+    src: url('Fonts/atomicage-regular-webfont.eot');
+    src: url('Fonts/atomicage-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Fonts/atomicage-regular-webfont.woff2') format('woff2'),
+         url('Fonts/atomicage-regular-webfont.woff') format('woff'),
+         url('Fonts/atomicage-regular-webfont.ttf') format('truetype'),
+         url('Fonts/atomicage-regular-webfont.svg#atomic_ageregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/*mise en forme du texte*/
+
+#texte
+    {
+        font-family: 'atomic_ageregular',Arial, Helvetica, sans-serif;
+        font-size: 2em;
+        text-align: center;
+        padding-top: 20%;
+    }
+
+body
+    {
+        background-image: url("images/settings-gears.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 300px 300px;
+        padding-top: 200px;
+        
+
+    }
+
+.button {
+    text-align: center;
+    background-color: black;
+    display: inline-block;
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+}
+
+.button:hover {
+    background-color: red;
+}
+
+footer
+    {
+        padding: 20px;
+        text-align: center;
+    }
