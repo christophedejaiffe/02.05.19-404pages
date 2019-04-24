@@ -12,6 +12,14 @@
     font-style: normal;
 
 }
+
+/*image*/
+
+#engrenage
+    {
+        text-align: center;
+    }
+
 /*mise en forme du texte*/
 
 #texte
@@ -19,19 +27,9 @@
         font-family: 'atomic_ageregular',Arial, Helvetica, sans-serif;
         font-size: 2em;
         text-align: center;
-        padding-top: 20%;
+        padding-top: 1%;
     }
 
-body
-    {
-        background-image: url("images/settings-gears.png");
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: 300px 300px;
-        padding-top: 200px;
-        
-
-    }
 
 .button {
     text-align: center;
