@@ -17,6 +17,7 @@
 
 #engrenage
     {
+        margin: 3%;
         text-align: center;
     }
 
@@ -50,3 +51,5 @@ footer
         padding: 20px;
         text-align: center;
     }
+
+    
