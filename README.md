@@ -46,8 +46,9 @@ Création d'une page 404...
 <details>
     
 <summary>Fichier CSS</summary>
+
 ```markdown
-/*Fonts de la page*/
+
 
 @font-face {
     font-family: 'atomic_ageregular';
