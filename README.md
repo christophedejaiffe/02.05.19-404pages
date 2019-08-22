@@ -7,7 +7,9 @@ Création d'une page 404...
 
 ### Partie HTML
 <details>
+    
 <summary>Fichier HTML</summary>
+
 ```markdown
 <!DOCTYPE html>
 <html lang="fr">
@@ -42,6 +44,7 @@ Création d'une page 404...
 
 ### Partie CSS
 <details>
+    
 <summary>Fichier CSS</summary>
 ```markdown
 /*Fonts de la page*/
