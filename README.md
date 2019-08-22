@@ -182,3 +182,7 @@ section
 ```
 </details>
 
+Le résultat :
+
+![40% center](images/Exemple.jpg)
+
